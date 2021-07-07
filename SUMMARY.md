@@ -12,7 +12,8 @@
 * [Working Area, Staging Area, Repository](git-area-and-stashing/working-area-staging-area-repository.md)
 * [Stashing](git-area-and-stashing/stashing.md)
 
----
+## References, Commits, Branches
 
-* [Untitled](untitled.md)
+* [References](references-commits-branches/untitled-1.md)
+* [Untitled](references-commits-branches/untitled.md)
 

@@ -16,6 +16,8 @@ git commit -m "Initial commit"
 tree .git
 
 git log --oneline
+
+git --no-pager log --oneline
 ```
 
 
