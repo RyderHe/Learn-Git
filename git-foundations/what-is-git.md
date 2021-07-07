@@ -16,9 +16,5 @@ description: Distributed Version Control System
   Initialized empty Git repo in /user/sample/.git/
   ```
 
-* 
-```text
-git init
-Initialized empty Git repo in /user/sample/.git/
-```
+
 
