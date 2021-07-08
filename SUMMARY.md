@@ -15,5 +15,20 @@
 ## References, Commits, Branches
 
 * [References](references-commits-branches/untitled-1.md)
-* [Untitled](references-commits-branches/untitled.md)
+* [Detached Head & Dangling Commits](references-commits-branches/untitled.md)
+
+## Merging & Rebasing
+
+* [Merging and Fast Forward](merging-and-rebasing/merging-and-fast-forward.md)
+* [Merge Conflicts](merging-and-rebasing/merge-conflicts.md)
+
+## History & Diffs
+
+* [Useful Commit Messages](history-and-diffs/useful-commit-messages.md)
+* [Git Log](history-and-diffs/git-log.md)
+* [Git Show & Diffs](history-and-diffs/git-show-and-diffs.md)
+
+## Fixing Mistakes
+
+* [Git Chekout](fixing-mistakes/git-chekout.md)
 
