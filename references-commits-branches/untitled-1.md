@@ -8,6 +8,22 @@
 
 ## Tags
 
+{% hint style="info" %}
+**git tag &lt;tag name&gt;** 默认把tag加到最新commit
+
+**git tag &lt;tag name&gt; &lt;commit id&gt;** 加到指定commit
+
+git tag 查看所有tag
+
+git log 查看tag对应commit
+
+**git tag -d &lt;tag name&gt;** 删除tag
+
+**git push origin &lt;tag name&gt;** 推送tag至远程仓库
+{% endhint %}
+
+
+
 The commit that a tag points doesn't change
 
 * create annotated tag

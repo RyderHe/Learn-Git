@@ -17,6 +17,12 @@ tree .git
 
 git log --oneline
 
+git log --oneline <file>
+
+git show <commit id>
+
+git log -p <commit id>
+
 git --no-pager log --oneline
 ```
 

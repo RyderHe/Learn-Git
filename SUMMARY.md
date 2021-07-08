@@ -32,3 +32,7 @@
 
 * [Git Chekout](fixing-mistakes/git-chekout.md)
 
+---
+
+* [Branch](branch.md)
+
