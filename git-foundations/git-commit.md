@@ -17,6 +17,8 @@ tree .git
 
 git log --oneline
 
+git log --oneline --graph 分支图
+
 git log --oneline <file>
 
 git show <commit id>
